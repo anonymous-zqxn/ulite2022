@@ -1,4 +1,4 @@
-This repository contains the code and data for the paper “A Blocking-Based Approach to Enhance Large-Scale Reference Matching.”
+This repository contains the code and data for the paper “A Blocking-Based Approach to Enhance Large-Scale Reference Linking.”
 
 Code and data for
 
